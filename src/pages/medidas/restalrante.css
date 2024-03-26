@@ -1,0 +1,82 @@
+.body {
+
+}
+
+
+
+
+.titulo { 
+    color: white;
+    background-color: rgb(27, 27, 27);
+    height: 350px;
+    font: 400 20px 'montserrat';
+}
+
+.titulo h1 {
+    padding: 15px 20px;
+    display: flex;
+    justify-content: center;
+}   
+
+.titulo img {
+    display: flex;
+    padding-left: 520px;
+}
+
+.titulo a {
+    color: white;
+}
+
+.titulo ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 30px;
+    padding: 0px 20px;
+    font: 400 20px 'montserrat';
+}
+
+    .titulo li {
+        list-style-type: none;
+    }
+
+.pratos {
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+}
+
+.pratos img {
+    height: 250px;
+}
+
+.pratos2 {
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+}
+
+.pratos2 img {
+    height: 250px;
+}
+
+.baixo {
+    background-color: black;
+    height: 650px;
+}
+
+.baixo h1 {
+    color: white;
+}
+
+.baixo p {
+    color: white;
+}
+
+.login h2 {
+    color: white;
+}
+
+.login label {
+    color: white;
+}
